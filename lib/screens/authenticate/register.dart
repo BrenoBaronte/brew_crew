@@ -74,7 +74,6 @@ class _RegisterState extends State<Register> {
                     dynamic result =
                       await _auth.registerWithEmailAndPassword(email, password);
                     if (result == null){
-                      print('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee');
                       setState(() => error = 'plase supply a valid email');
                     }
                   }
@@ -84,7 +83,7 @@ class _RegisterState extends State<Register> {
               Text(
                 error,
                 style: TextStyle(color: Colors.red, fontSize: 14.0),
-              )
+              ),
             ],
           ),
         ),
