@@ -1,16 +1,33 @@
 # brewcrew
 
-A new Flutter application.
+Now when You need to prepare a coffee to coworkers you'll know their preferences and them will know yours.
 
-## Getting Started
+## Screeshots
 
-This project is a starting point for a Flutter application.
+### Sign in with validations
 
-A few resources to get you started if this is your first Flutter project:
+![sign in 1](https://i.imgur.com/vgvcsox.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![sign in 2](https://i.imgur.com/XRVzsJU.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sign in 3](https://i.imgur.com/CDXFFg4.png)
+
+### Register
+
+![register](https://i.imgur.com/mjABT0t.png)
+
+### Loading
+
+![loading](https://i.imgur.com/hGo5LsS.png)
+
+### Home 
+
+![home](https://i.imgur.com/920drG0.png)
+
+### Settings
+
+![settings 1](https://i.imgur.com/dteLTse.png)
+
+![settings 2](https://i.imgur.com/SjPr6tJ.png)
+
+![settings 3](https://i.imgur.com/Euwts4t.png)
