@@ -6,4 +6,4 @@ Now when You need to prepare a coffee to coworkers you'll know their preferences
 
 ### Sign in with validations
 
-![sign in 1](https://imgur.com/vgvcsox)
+![sign in 1](https://i.imgur.com/vgvcsox.png)
