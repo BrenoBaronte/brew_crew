@@ -1,6 +1,10 @@
-# brewcrew
+# BrewCrew
 
 Now when You need to prepare a coffee to coworkers you'll know their preferences and them will know yours.
+
+## Google Play Store
+
+This app is available on Google Play Store! [Click here to access!](https://play.google.com/store/apps/details?id=com.baronte.brewcrew)
 
 ## Screeshots
 
