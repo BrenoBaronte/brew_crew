@@ -6,32 +6,14 @@ Now when You need to prepare a coffee to coworkers you'll know their preferences
 
 This app is available on Google Play Store! [Click here to access!](https://play.google.com/store/apps/details?id=com.baronte.brewcrew)
 
-## Screeshots
+## Overview
 
-### Sign in with validations
+This is one of my firsts apps. My first published on Google Play Store.
 
-![sign in 1](https://i.imgur.com/vgvcsox.png)
+It is possible to register in the app and adjust the settings to show your brew preferences.
 
-![sign in 2](https://i.imgur.com/XRVzsJU.png)
+![Register](https://media.giphy.com/media/ihFy4hDNG03YFat3aD/giphy.gif)
 
-![sign in 3](https://i.imgur.com/CDXFFg4.png)
+![Settings](https://media.giphy.com/media/lrPEepS0QuXLykXJ0x/giphy.gif)
 
-### Register
-
-![register](https://i.imgur.com/mjABT0t.png)
-
-### Loading
-
-![loading](https://i.imgur.com/hGo5LsS.png)
-
-### Home 
-
-![home](https://i.imgur.com/920drG0.png)
-
-### Settings
-
-![settings 1](https://i.imgur.com/dteLTse.png)
-
-![settings 2](https://i.imgur.com/SjPr6tJ.png)
-
-![settings 3](https://i.imgur.com/Euwts4t.png)
+![Login and edit](https://media.giphy.com/media/jsZY5jwWH9K9CGpYbd/giphy.gif)
