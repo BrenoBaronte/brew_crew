@@ -12,6 +12,8 @@ This is one of my firsts apps. My first published on Google Play Store.
 
 It is possible to register in the app and adjust the settings to show your brew preferences.
 
+__The back-end of this app was create with Firebase__.
+
 ### Register
 
 ![Register](https://media.giphy.com/media/ihFy4hDNG03YFat3aD/giphy.gif)
