@@ -12,8 +12,18 @@ This is one of my firsts apps. My first published on Google Play Store.
 
 It is possible to register in the app and adjust the settings to show your brew preferences.
 
+### Register
+
 ![Register](https://media.giphy.com/media/ihFy4hDNG03YFat3aD/giphy.gif)
 
+---
+
+### Settings
+
 ![Settings](https://media.giphy.com/media/lrPEepS0QuXLykXJ0x/giphy.gif)
+
+---
+
+### Login and edit settings
 
 ![Login and edit](https://media.giphy.com/media/jsZY5jwWH9K9CGpYbd/giphy.gif)
